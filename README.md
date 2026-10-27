@@ -643,7 +643,7 @@ Here's an awesome list of AI agents:
 
 ### AGBoss
 <div><a href="https://github.com/agbossjs/agboss"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/agbossjs/agboss"><img src="https://img.shields.io/github/stars/agbossjs/agboss?style=social" alt="GitHub stars"></a></div>
-<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/agbossjs">@agbossjs</a></p>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/PavelRavvich">@PavelRavvich</a> <small>(self-reported founder/team)</small> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/867">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/867">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/agbossjs">@agbossjs</a></p>
 <p>⚙️ Development Frameworks</p>
 
 <p>AGBoss is an open-source TypeScript framework for building multi-agent workflows on top of LangGraph with constructor dependency injection, declarative typed workflow routing, compile-time structural graph verification (agboss check), and deterministic isolated unit testing.</p>
